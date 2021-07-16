@@ -2,7 +2,7 @@ import React from 'react';
 
 function PrivatePage (props){
 
-  console.log(`props in the PrivatePage: ${props}`);
+  console.log('props in the PrivatePage: ', props);
 
   //   You can destructure props and users object, or use it as we did in the example:
   //   const { name, age } = props.user;

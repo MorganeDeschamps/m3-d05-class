@@ -2,6 +2,12 @@
   "name": "01_code-react_state_intro",
   "version": "0.1.0",
   "private": true,
+  "workspaces": [
+    "./01_code-react_routing_intro",
+    "./01_code-react_routing_adv",
+    "./__intructor_code__/01_code-react_routing_intro",
+    "./__intructor_code__/02_code-react_routing_adv"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
